@@ -38,8 +38,8 @@ I am passionate about building **reliable, secure, and user-friendly application
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: bandarapiyumi950@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/hansika-bandara  
 
 ---
 
