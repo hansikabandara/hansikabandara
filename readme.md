@@ -37,12 +37,6 @@ I am passionate about building **reliable, secure, and user-friendly application
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansikabandara&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - 📧 Email: your-email@example.com  
 - 💼 LinkedIn: https://linkedin.com/in/your-profile  
