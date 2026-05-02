@@ -39,7 +39,7 @@ I am passionate about building **reliable, secure, and user-friendly application
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hansikabandara&show_icons=true&theme=tokyonight)
 
 ---
 
